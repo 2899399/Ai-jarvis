@@ -26,12 +26,12 @@ ollama pull llama3
 
 ## ▶️ How to Run
 
-First start Ollama:
+First start Ollama in CMD:
 ```bash
 ollama serve
 ```
 
-Then run JARVIS:
+Then run JARVIS in CMD:
 ```bash
 python ai_jarvis.py
 ```
@@ -71,10 +71,13 @@ Aap: Aaj ka mausam kaisa hai Delhi mein?
 - LLaMA3 (AI Model)
 - pyttsx3 (Text to Speech)
 - SpeechRecognition (Voice Input)
+  
+Enjoy Kro khud ka personal Assistant...... Thank You -_-
+
 
 ## 👨‍💻 Author
 
-[Your Name Here]
+Parveen Kumar
 
 ---
 ⭐ If you found this useful, give it a star!
