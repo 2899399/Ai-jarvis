@@ -2,7 +2,7 @@
 # ============================================================
 #   AI JARVIS - Personal Hindi AI Assistant
 #   Powered by: Ollama (Local AI - No API needed)
-#   Author  : [Your Name]
+#   Author  : Parveen Kumar 
 #   Version : 1.0
 # ============================================================
 #
